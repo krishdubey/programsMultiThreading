@@ -1,0 +1,7 @@
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\bin\Debug\MultiThreadingProgramm.exe.config
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\bin\Debug\MultiThreadingProgramm.exe
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\bin\Debug\MultiThreadingProgramm.pdb
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\obj\Debug\MultiThreadingProgramm.csprojAssemblyReference.cache
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\obj\Debug\MultiThreadingProgramm.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\obj\Debug\MultiThreadingProgramm.exe
+G:\c#.netPrograms\MultiThreadingProgramm\MultiThreadingProgramm\obj\Debug\MultiThreadingProgramm.pdb
